@@ -1,0 +1,22 @@
+---------------------------------------------------------Architecture of Java EE---------------------------------------------
+
+                                                          Database 
+                                                            ||
+                                                            ||
+                                                            ||
+                                                            ||
+                                                            ||
+                                       --------------------------------------------
+                                       ||                                         ||
+                                       ||                                         ||
+                                   EJB Server                                Intranet Client
+                            (Container & Controller,Data model)             (GUI Application)    
+                                       ||
+                                       ||
+                                       ||
+                                       ||
+                                       ||
+                                       ||
+                                  -------------
+                                 Internet Client
+                                   Web Browser
