@@ -33,6 +33,7 @@ User Workstation                                                                
   which matches that request URL by calling service method on an instance(object) of servlet class. Activation of service method in servlet class is handled in seprate
   thread in web container protocol.
  
+  Client server model using web container : img: https://drive.google.com/file/d/1UiIJEDg14CfOOVgkszxu87o6jeqRQfdK/view?usp=sharing
  
  
   
