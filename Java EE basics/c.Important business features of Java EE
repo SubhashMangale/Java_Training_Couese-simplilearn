@@ -1,0 +1,7 @@
+1. Buisness component is application, program are kept seperated at different layer/tier so they are isolated from programming, server part.
+
+2. It's modular design means the program we write in Java EE is classified in many small modules so according to change in buisness logic we can change program easily
+without any interferance with code.
+
+3. Java EE provides security for business applications because as I wrote in point 1, the business logic is kept seperated form actual programming logic.
+In short business layer and web application layer are kept seperated from each other.

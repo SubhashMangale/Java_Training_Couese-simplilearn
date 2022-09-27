@@ -1,0 +1,24 @@
+              ^
+              |
+              |
+              |
+              |                 
+       R      |                                                                                               HTML
+       O      |                                                                                             Basic JSP
+       B      |                                                                                             Servlets
+       U      |                                                                                            Java Beans Components
+       S      |                                                             HTML                          Java Modular Components
+       T      |                                                           Basis JSP                        Enterprise Java Beans
+       N      |                                  HTML                     Servlets 
+       E      |         HTML              Basic JSP and Servles         JSP Modular components
+       S      |       HTML Pages                                        Java Beans components
+       S      |
+              |
+              |
+              |
+              |
+              |
+              |____________________________________________________________________________________________________________________>
+                                                                Complexity
+                                                                
+                                As Complexity in Java Program increases, it's robustness is also increases.

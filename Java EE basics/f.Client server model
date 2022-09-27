@@ -1,0 +1,35 @@
+1.Client Server Model : It is a distributed application model that divides the task betweem web server and web client.
+
+2.Web server and web client both are programs.
+
+3.The person who uses the web service is called as end user and not web client.
+
+
+4.Web Client  : 
+    a. It includes web , database, chat application , email etc.
+    
+    b. It sends a request to server in url format.
+    
+    c. Format of url:
+      http://localhost:8080/MyApplication
+      Meaning of content in url:
+      1.localhost       : The machine on which application hosted/deployed.
+      2.8080            : server port number on which server is functional.
+      3.My Application  : Name of the Application on server/context root.
+      
+    d.
+   
+      
+
+5.Web Servers : 
+    a.Browsers-(Chrome,firefox,chat application ,email software).
+    b.Takes request from client and sends back as a response. This response can be either static or dynamic.
+    
+5.HTTP Protocol : 
+    a. It is a transfer protocol which uses TCP/IP model for data transfer.
+   
+*****************************///////////////////-------------------------//////////////////////////*********************************
+
+Types of server : Web , application , proxy, virtual , blade, file, policy.
+Types of client requests : GET,POST,PUT,DELETE,TRACE,OPTIONS,HEAD.
+
