@@ -27,5 +27,9 @@
     
 5.HTTP Protocol : 
     a. It is a transfer protocol which uses TCP/IP model for data transfer.
-    
-    
+   
+*****************************///////////////////-------------------------//////////////////////////*********************************
+
+Types of server : Web , application , proxy, virtual , blade, file, policy.
+Types of client requests : GET,POST,PUT,DELETE,TRACE,OPTIONS,HEAD.
+
